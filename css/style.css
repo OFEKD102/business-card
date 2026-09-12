@@ -51,3 +51,6 @@ p { line-height: 1.7; color: var(--ink-soft); margin-bottom: 12px; }
 .contact-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
 .contact-list a { border-bottom: 1px solid var(--border); }
 .contact-list a:hover { color: var(--accent); border-color: var(--accent); }
+a:hover,a:focus{
+  color: #5CB78A;
+}
